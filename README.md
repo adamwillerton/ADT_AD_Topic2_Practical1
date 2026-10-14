@@ -1,4 +1,4 @@
-# Language Comparison Mini‑Project (No installs, Hosting‑only)
+# Language Comparison Mini‑Project (No installs, Hosting‑only) 
 
 This project allows learners to compare different language versions of the same project.
 You will build the same small CRUD app twice — once in JavaScript and once in TypeScript — and compare the developer experience.
